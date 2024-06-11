@@ -1,0 +1,2 @@
+Code里面的代码直接用anaconda打开
+pyGCN_util里面的代码使用安装了pytorch的anaconda打开
